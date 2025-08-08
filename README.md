@@ -8,7 +8,7 @@
 
 ### 📱 Flutter Mobile App Developer from Jordan 🇯🇴
 
-![Profile views](https://komarev.com/ghpvc/?username=mutie3&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -40,53 +40,20 @@
 
 <div align="center">
 
-### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-### 🌐 APIs & Integration
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white)
-
-### 🔥 Backend & Database
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Realtime Database](https://img.shields.io/badge/Realtime%20Database-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-### 📈 Stats will appear once you start committing code!
-
-```
-🚀 Start coding and your beautiful stats will show up here!
-📊 Push some Flutter projects to see amazing graphs
-⭐ Star some repositories to build your contribution graph
-🔥 Your coding journey is about to begin!
-```
-
-**Your GitHub stats will automatically populate as you:**
-- 📝 Create repositories
-- 💻 Make commits  
-- ⭐ Star projects
-- 🔄 Contribute to open source
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -104,69 +71,6 @@
 💻 C++ Programming           ██████████████████████████░░░░░░░░░░ 75%
 🐍 Python Development        ██████████████████████░░░░░░░░░░░░░░ 70%
 ```
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-  
-### 🏥 ULM Care - Flutter Healthcare App
-*Currently Working On*
-
-**🚀 Key Features:**
-- 📱 Cross-platform mobile application built with Flutter
-- 🔥 Complete Firebase backend integration  
-- 🔐 Secure user authentication system
-- 📊 Real-time data synchronization
-- 🌐 Advanced RESTful API integration
-- 💊 Healthcare management system
-- 📋 Patient records management
-- 🔔 Push notifications
-
-**🛠️ Tech Stack:**
-`Flutter` `Dart` `Firebase` `REST APIs` `Authentication` `Cloud Firestore`
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-<div align="center">
-
-🔸 **Master Advanced Flutter State Management (Provider, Bloc, Riverpod)**  
-🔸 **Build Production-Ready Healthcare Applications**  
-🔸 **Contribute to Open Source Flutter Projects**  
-🔸 **Expert Level API Integration & Data Management**  
-🔸 **Learn Advanced Firebase Cloud Functions**  
-🔸 **Explore Flutter Web & Desktop Development**  
-
-</div>
-
----
-
-## 🌟 What Makes Me Different
-
-<div align="center">
-
-**🎯 API Integration Expert**
-> Specialized in integrating complex RESTful APIs with Flutter applications
-> Experience with authentication, data parsing, and error handling
-
-**🔥 Firebase Specialist** 
-> Complete Firebase ecosystem knowledge including Authentication, 
-> Firestore, Realtime Database, Cloud Storage, and Push Notifications
-
-**💡 Problem Solver**
-> Passionate about turning complex healthcare requirements 
-> into user-friendly mobile solutions
-
-**🚀 Performance Focused**
-> Optimizing app performance, managing state efficiently,
-> and creating smooth user experiences
 
 </div>
 
