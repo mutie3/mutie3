@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mutie Abu Zanat
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Flutter+Mobile+App+Developer;Passionate+about+Mobile+Development;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
@@ -10,8 +10,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mutie3E&label=Profile%20views&color=0e75b6&style=flat)
 
+---
 
 ## 🚀 What I'm Currently Up To
+
 
 - 🔭 I'm currently working on **ULM Care** Flutter Project
 - 🌱 I'm currently learning **Mobile App Development** with passion  
