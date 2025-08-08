@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 What I'm Currently Up To
+--- 🚀 What I'm Currently Up To
 
 
 
