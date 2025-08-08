@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Mutie Abu Zanat
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Flutter+Mobile+App+Developer;Passionate+about+Mobile+Development;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=400&height=35&lines=Welcome+to+my+GitHub+Profile!;Flutter+Mobile+App+Developer;Passionate+about+Mobile+Development;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 📱 Flutter Mobile App Developer from Jordan 🇯🇴
 
@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 What I'm Currently Up To
+
 
 
 - 🔭 I'm currently working on **ULM Care** Flutter Project
