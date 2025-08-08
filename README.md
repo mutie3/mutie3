@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mutie Abu Zanat
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Flutter+Mobile+App+Developer;Passionate+about+Mobile+Development;Always+learning+new+technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Flutter+Mobile+App+Developer;Passionate+about+Mobile+Development;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -11,6 +11,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mutie3E&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
+
 
 ## 🚀 What I'm Currently Up To
 
