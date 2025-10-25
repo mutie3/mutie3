@@ -116,10 +116,9 @@
 
 ### 💼 Available for:
 - 📱 Flutter Mobile App Development
-- 🔗 API Integration & Backend Services  
+- 🔗 API Integration
 - 🏥 Healthcare Application Development
 - 🔥 Firebase Implementation
-- 📊 Database Design & Optimization
 
 ---
 
