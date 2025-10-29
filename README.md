@@ -1,129 +1,238 @@
-# Hi there 👋, I'm Mutie Abu Zanat
+# مرحبا 👋، أنا مُعتي أبو زنط
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Flutter+Mobile+App+Developer;Passionate+about+Mobile+Development;Always+learning+new+technologies" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Flutter+Mobile+Developer+%F0%9F%9A%80;Building+Amazing+Mobile+Apps;Let's+Create+Something+Great!" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+</div>
 
-### 📱 Flutter Mobile App Developer from Jordan 🇯🇴
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=mutie3E&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/mutie3E)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mutie3az)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutie.abu.zanat.dev@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=mutie3E&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
---- 🚀 What I'm Currently Up To
-
-
-
-- 🔭 I'm currently working on **ULM Care** Flutter Project
-- 🌱 I'm currently learning **Mobile App Development** with passion  
-- 👯 I'm looking to collaborate on **Innovative Flutter Projects**
-- 💬 Ask me about **Flutter, Dart, Firebase, Mobile Development, RESTful APIs**
-- 📫 How to reach me: **mutie.abu.zanat.dev@gmail.com**
-- ⚡ Fun fact: I love turning ideas into beautiful mobile apps!
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 عني
 
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mutie3az" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/mutie_az" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60"/>
-  </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/share/19pu6ykYnM/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="60" height="60"/>
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:mutie.abu.zanat.dev@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="60" height="60"/>
-  </a>
-</p>
-
-
----
-
-## 🛠 Languages & Tools
-
-<p align="center">
-  <!-- Flutter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <!-- Dart -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <!-- Android Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <!-- SQLite -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <!-- JSON -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/>
-</p>
-
+```dart
+class MutieAbuZanat {
+  final String name = "Mutie Abu Zanat";
+  final String location = "Amman, Jordan 🇯🇴";
+  final String role = "Flutter Mobile Developer";
+  
+  List<String> skills = [
+    "Flutter", "Dart", "Firebase",
+    "REST APIs", "State Management",
+    "Clean Architecture", "Mobile UI/UX"
+  ];
+  
+  Map<String, String> currentWork = {
+    "project": "ULM Care",
+    "status": "In Development 🔥",
+    "focus": "Healthcare Mobile Solutions"
+  };
+  
+  String getMotivation() {
+    return "Building the future, one app at a time! 💪";
+  }
+}
+```
 
 ---
 
-## 💡 Skills & Expertise
+## 💼 ماذا أفعل الآن؟
+
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🔭 المشاريع الحالية
+- 💊 **ULM Care** - Healthcare Flutter App
+- 🚀 استكشاف تقنيات Flutter الحديثة
+- 📚 تطوير مهاراتي باستمرار
+
+### 🌱 أتعلم حالياً
+- Advanced State Management (BLoC, Riverpod)
+- Clean Architecture في Flutter
+- Performance Optimization
+- Backend Integration
+
+    </td>
+    <td width="50%">
+      
+### 👯 أبحث عن تعاون في
+- مشاريع Flutter المبتكرة
+- تطبيقات الرعاية الصحية
+- تطبيقات الـ Fintech
+- Open Source Projects
+
+### 💬 اسألني عن
+- Flutter & Dart
+- Firebase Integration  
+- RESTful APIs
+- Mobile App Architecture
+- UI/UX Best Practices
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ التقنيات والأدوات
+
+<div align="center">
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔥 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+</div>
+
+---
+
+## 📊 مستوى الخبرة
 
 <div align="center">
 
 ```text
-🚀 Mobile App Development     ████████████████████████████████████ 95%
-🔥 Flutter & Dart            ████████████████████████████████████ 90%
-🌐 API Integration           ████████████████████████████████████ 95%
-🛠️ Firebase Integration      ███████████████████████████████████░ 85%
-💻 C++ Programming           ██████████████████████████░░░░░░░░░░ 75%
-🐍 Python Development        ██████████████████████░░░░░░░░░░░░░░ 70%
+📱 Flutter Development        ████████████████████████████████████  95%
+🎯 Dart Programming           ███████████████████████████████████░  90%
+🔌 API Integration            ████████████████████████████████████  95%
+🔥 Firebase                   ███████████████████████████████░░░░░  85%
+🏗️  State Management          ██████████████████████████████░░░░░░  80%
+💻 C++ Programming            ██████████████████████████░░░░░░░░░░  75%
+🐍 Python                     ██████████████████████░░░░░░░░░░░░░░  70%
+🎨 UI/UX Design               ███████████████████████████████░░░░░  85%
 ```
 
 </div>
 
 ---
 
-## 📞 Let's Build Something Amazing Together!
+## 🌟 المشاريع المميزة
 
 <div align="center">
 
-**Ready to collaborate on your next Flutter project?**  
-**Looking for API integration expertise?**  
-**Need a reliable mobile app developer?**
+| 🏥 Healthcare | 💰 Fintech | 🎮 Entertainment |
+|:---:|:---:|:---:|
+| ULM Care App | Coming Soon | Coming Soon |
 
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutie.abu.zanat.dev@gmail.com)
-
-**I'm always excited about new opportunities and innovative projects!**
+</div>
 
 ---
 
-### 💼 Available for:
-- 📱 Flutter Mobile App Development
-- 🔗 API Integration
-- 🏥 Healthcare Application Development
-- 🔥 Firebase Implementation
+## 🌐 تواصل معي
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mutie3az" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mutie.abu.zanat.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.instagram.com/mutie_az" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/share/19pu6ykYnM/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+</div>
 
 ---
 
-**Thank you for visiting my profile! 😄**
+## 💼 الخدمات المتاحة
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+
+| 📱 Mobile Apps | 🔗 API Integration | 🏥 Healthcare Apps | 🔥 Firebase |
+|:---:|:---:|:---:|:---:|
+| ✅ متاح | ✅ متاح | ✅ متاح | ✅ متاح |
+
+</div>
+
+---
+
+## 🎯 أهدافي 2025
+
+- [ ] 🚀 إطلاق 5 تطبيقات على المتاجر
+- [ ] 📚 المساهمة في مشاريع Open Source
+- [ ] 🎓 الحصول على شهادات متقدمة في Flutter
+- [ ] 🌍 التعاون مع مطورين من حول العالم
+- [x] 💪 تطوير مهاراتي باستمرار
+
+---
+
+## 📈 إحصائيات GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mutie3E&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutie3E&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutie3E&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 💡 اقتباس اليوم
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 لنبني شيئًا رائعًا معًا!
+
+<div align="center">
+
+### 🚀 هل لديك فكرة تطبيق؟
+### 💡 تحتاج مطور Flutter محترف؟
+### 🔥 لديك مشروع مبتكر؟
+
+[![تواصل معي](https://img.shields.io/badge/تواصل_معي-00D9FF?style=for-the-badge&logo=telegram&logoColor=white)](mailto:mutie.abu.zanat.dev@gmail.com)
+
+**أنا متحمس دائمًا للفرص الجديدة والمشاريع المبتكرة! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ إذا أعجبك البروفايل، لا تنسى تضع نجمة على مشاريعي!
+
+**شكراً لزيارتك! 😄**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
